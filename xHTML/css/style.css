@@ -64,8 +64,8 @@ ul.skills li .topic{float:left;width:160px;font-weight:bold;color:#777;font-size
 ul.skills li .stars{float:left;width:120px}
 
 /*----------------------------------Work----------------------------------*/
-#workmask{width:710px;height:92.5px;position:relative;margin-top:25px;overflow:hidden}
-#workscroller{width:710px; height:92.5px;position:absolute;margin-top:0}
+#workmask{width:690px;height:92.5px;position:relative;margin-top:25px;overflow:hidden}
+#workscroller{width:690px; height:92.5px;position:absolute;margin-top:0}
 .work-item-preview:hover {display:block;background:url(../images/vcard/bg-fade.png) no-repeat center center;}
 ul.work{margin-top:0; overflow:hidden}
 ul.work a{color:#4d4d4d}
