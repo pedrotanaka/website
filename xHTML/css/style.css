@@ -80,11 +80,11 @@ ul.navigation li.active{background:#ccc;color:#555;text-shadow:1px 1px 1px #eee;
 ul.navigation li:hover{background:#ccc;border:none;padding:3px 6px 4px 6px}
 
 /*----------------------------------Networks----------------------------------*/
-ul.networks li{float:left;width:224px;height:38px;padding:15px 25px 15px 0;list-style:none;cursor:pointer}
-ul.networks .last{width:186px}
+ul.networks li{float:left;width:224px;height:38px;padding:10px 10px 10px 0;list-style:none;cursor:pointer}
+ul.networks .last{width:200px}
 ul.networks li a{text-decoration:none}
 ul.networks li
-.background{width:210px;height:42px;background:url(../images/vcard/networksbg.png);position:relative;display:none}
+.background{width:224px;height:38px;background:url(../images/vcard/networksbg.png);position:relative;display:none}
 ul.networks li .content{position:relative;display:block;z-index:2;margin:6px 0 0 0}
 ul.networks li img{float:left;padding-right:8px;width:32px;height:32px;border:0}
 ul.networks li .title{float:left}
